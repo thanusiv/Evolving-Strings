@@ -15,7 +15,7 @@ Evolving Strings is a simple project that showcases the Genetic Algorithm. The i
 
 ## Demo
 
-<img src="gifs/1.gif?raw=true"/> <img src="gifs/2.gif?raw=true"/> <img src="gifs/3.gif?raw=true"/>
+<img src="gifs/1.gif" width="800" height ="500"/> <img src="gifs/2.gif?raw=true"/> <img src="gifs/3.gif?raw=true"/>
 
 ## How to Load Project
 
@@ -31,7 +31,7 @@ Simply clone the Github repository to a local directory and open and run the `ma
 
 ## Technologies Used
 
-- [Visual Studio Code](https://code.visualstudio.com/) - IDE used to build the game
+- [Visual Studio Code](https://code.visualstudio.com/) - IDE used to build the project
 - [Python 3.8.3](https://www.python.org/downloads/) - Programming language used
 
 ## Acknowledgements
