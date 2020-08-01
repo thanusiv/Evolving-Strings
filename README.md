@@ -31,7 +31,7 @@ Simply clone the Github repository to a local directory and open and run the `ma
 
 ## Technologies Used
 
-- [Visual Studio Code](https://code.visualstudio.com/) - IDE used to build the game
+- [Visual Studio Code](https://code.visualstudio.com/) - IDE used to build the project
 - [Python 3.8.3](https://www.python.org/downloads/) - Programming language used
 
 ## Acknowledgements
