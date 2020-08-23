@@ -23,7 +23,7 @@ Overtime, the generations will possess on average a better fitness score until e
 
 ## How to Load Project
 
-Simply clone the Github repository to a local directory and open and run the `main.py` file using an IDE or from the terminal.
+Clone the Github repository to a local directory. Create a virtual environment if wanted and use `pip install -r requirements.txt` to install all the required dependencies (this project doesn't really require any additional dependencies, so skip this step if you like). Open and run the `main.py` file using an IDE or from the terminal.
 
 ## Features
 
